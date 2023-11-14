@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "nit": "^0.0.5",
+    "prompt-sync": "^4.2.0",
+    "ts-node": "^10.9.1"
+  },
+  "name": "labirinto",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudetemachado/Labirinto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudetemachado/Labirinto/issues"
+  },
+  "homepage": "https://github.com/claudetemachado/Labirinto#readme"
+}
